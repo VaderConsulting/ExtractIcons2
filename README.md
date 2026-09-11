@@ -1,6 +1,6 @@
 # ExtractIcons2
 
-VB6 working copy of `ExtractIcons2` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. Output: `ExtractIcons.exe`. `VersionCompanyName`:  DAGS.
+DAGS VB6 Extract Icons tool (`ExtractIcons.exe`) that browses internal and associated icons in a file, scrolls icon index, and saves selected icons. UI caption "Extract Icons"; companion `Module1.bas` holds ExtractIcon APIs.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
